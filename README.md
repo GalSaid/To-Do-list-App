@@ -1,5 +1,5 @@
 # To-Do-list-App
-To Do list application in C#. When exiting the application, it is updated and saved in a Json file and reloaded when opening the application.
+To Do list - Windows Forms app with C#. When exiting the application, it is updated and saved in a Json file and reloaded when opening the application.
 
 <h2>Usage and options</h2>
 <img src="https://github.com/GalSaid/To-Do-list-App-/assets/120250560/dea477dc-22d1-497a-86d2-a676a4f51aab" width="500"/>
