@@ -2,7 +2,7 @@
 To Do list - Windows Forms app with C#. When exiting the application, it is updated and saved in a Json file and reloaded when opening the application.
 
 <h2>Usage and options</h2>
-<img src="https://github.com/GalSaid/To-Do-list-App-/assets/120250560/dea477dc-22d1-497a-86d2-a676a4f51aab" width="500"/>
+<img src="https://github.com/GalSaid/To-Do-list-App/assets/120250560/2bc619bb-7397-44ff-b380-1b482f221f5a" width="500"/>
  <br /> <br />
 1. Add a new task- in the title, write the name of the task. In the message box write additional comments (optional) and then click the save button. The task is added to the list of tasks that appear on the right side. <br /> <br />
 2. Reading an existing note - clicking on the note we want to read and then on the read button. <br /> <br />
